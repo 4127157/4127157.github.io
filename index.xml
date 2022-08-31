@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Malviya Devs</title>
-    <link>/</link>
+    <link>https://malviya.dev/</link>
     <description>Recent content on Malviya Devs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Aryansh Malviya {year}</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 18:28:35 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Aug 2022 18:28:35 +0530</lastBuildDate><atom:link href="https://malviya.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web as the Platform</title>
-      <link>/blog/web-as-the-platform/</link>
+      <link>https://malviya.dev/blog/web-as-the-platform/</link>
       <pubDate>Wed, 31 Aug 2022 18:28:35 +0530</pubDate>
       
-      <guid>/blog/web-as-the-platform/</guid>
+      <guid>https://malviya.dev/blog/web-as-the-platform/</guid>
       <description>Every once in a while there are discussions about making things cross-platform or a big deal about it. Nowadays, this discussion is mostly limited to poweruser stuff like feature rich photo editing softwares, video editors or games.
 A few years ago, there was a big concern about this but with the advent of Electron and the Web as a platform becoming even stronger, a new race has emerged that has the potential to put software innovation on a rocket ship.</description>
     </item>
     
     <item>
       <title>Why Foundations Matter</title>
-      <link>/blog/why-foundations-matter/</link>
+      <link>https://malviya.dev/blog/why-foundations-matter/</link>
       <pubDate>Sat, 27 Aug 2022 07:36:05 +0530</pubDate>
       
-      <guid>/blog/why-foundations-matter/</guid>
+      <guid>https://malviya.dev/blog/why-foundations-matter/</guid>
       <description>TL;DR - without foundations you quickly forget them when working with high levels of abstraction and become headless chickens leading to unnecessary bottlenecks, complexities and brittle implementations.
 There is a tendency in the software development landscape that exists today to simply pick up and use whatever gets the job done in the fastest way possible.
 Fastest, purely in the terms of development time.
@@ -32,10 +32,10 @@ However, this philosophy has lead to a jungle of abstracted away complexities an
     
     <item>
       <title>On Writing</title>
-      <link>/blog/on-writing/</link>
+      <link>https://malviya.dev/blog/on-writing/</link>
       <pubDate>Thu, 25 Aug 2022 04:32:06 +0530</pubDate>
       
-      <guid>/blog/on-writing/</guid>
+      <guid>https://malviya.dev/blog/on-writing/</guid>
       <description>Anyone can write. Anyone can tell a story.
 But what is it to effective writing? (or effective storytelling?)
 Every story, every piece needs a point, a moral, a takeaway.
@@ -46,10 +46,10 @@ Everyone who sets out to write something knows that the other person takes somet
     
     <item>
       <title></title>
-      <link>/projects/temp/</link>
+      <link>https://malviya.dev/projects/temp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/temp/</guid>
+      <guid>https://malviya.dev/projects/temp/</guid>
       <description>Projects Some projects that I have made previously, I&amp;rsquo;m constantly working on something or the other though, there&amp;rsquo;s a LIST~this is a todo to implement~ at the bottom of things that I intend to get to or am currently working on, many of these will be shelved, but it is worth trying.
 Nine Key Piano Live Demo | Source Code
 A little piano made to experiment with HTML5 Audio features. Sounds sourced completely freely.</description>
