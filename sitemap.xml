@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://4125157.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2022-08-31T18:28:35+05:30</lastmod>
   </url><url>
-    <loc>https://4125157.github.io/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2022-08-31T18:28:35+05:30</lastmod>
   </url><url>
-    <loc>https://4125157.github.io/blog/web-as-the-platform/</loc>
+    <loc>/blog/web-as-the-platform/</loc>
     <lastmod>2022-08-31T18:28:35+05:30</lastmod>
   </url><url>
-    <loc>https://4125157.github.io/blog/why-foundations-matter/</loc>
+    <loc>/blog/why-foundations-matter/</loc>
     <lastmod>2022-08-27T07:36:05+05:30</lastmod>
   </url><url>
-    <loc>https://4125157.github.io/blog/on-writing/</loc>
+    <loc>/blog/on-writing/</loc>
     <lastmod>2022-08-25T04:32:06+05:30</lastmod>
   </url><url>
-    <loc>https://4125157.github.io/projects/temp/</loc>
+    <loc>/projects/temp/</loc>
   </url><url>
-    <loc>https://4125157.github.io/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>https://4125157.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://4125157.github.io/projects/</loc>
+    <loc>/projects/</loc>
   </url><url>
-    <loc>https://4125157.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
