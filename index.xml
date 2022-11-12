@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Aryansh Malviya {year}</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 18:28:35 +0530</lastBuildDate><atom:link href="https://malviya.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2022 07:22:05 +0530</lastBuildDate><atom:link href="https://malviya.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Is Worth It, Always</title>
+      <link>https://malviya.dev/blog/learning-is-worth-it/</link>
+      <pubDate>Sat, 12 Nov 2022 07:22:05 +0530</pubDate>
+      
+      <guid>https://malviya.dev/blog/learning-is-worth-it/</guid>
+      <description>Live Demo: justremove
+Github Repo: justremove_github
+It may be a little late to try Typescript as the cool new thing in 2022, but I had never really thought that I needed to use it. I justified not using it like I always do, for anything new that I refuse to initially try, by saying that I didn&amp;rsquo;t really need it because I can already do it my way.
+&amp;ldquo;My way&amp;rdquo; here being just vanilla JS.</description>
+    </item>
+    
     <item>
       <title>Web as the Platform</title>
       <link>https://malviya.dev/blog/web-as-the-platform/</link>
