@@ -14,8 +14,8 @@
       
       <guid>https://malviya.dev/projects/temp/</guid>
       <description>Projects Some projects that I have made previously, I&amp;rsquo;m constantly working on something or the other though, there&amp;rsquo;s a LIST~this is a todo to implement~ at the bottom of things that I intend to get to or am currently working on, many of these will be shelved, but it is worth trying.
-Image Background Remover Live Demo | Source Code
-Online tool can remove background and foreground from images. Made with React, Typescript, Nodejs &amp;amp; RapidAPI.</description>
+APOD API Frontend Live Demo | Source Code
+As an experiment to try out SolidJS I decided to implement a public API using it to get my hands somewhat dirty with it and understand its fundamentals.</description>
     </item>
     
   </channel>
