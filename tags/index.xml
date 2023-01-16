@@ -7,31 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Aryansh Malviya {year}</copyright>
-    <lastBuildDate>Sat, 31 Dec 2022 00:49:22 +0530</lastBuildDate><atom:link href="https://malviya.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jan 2023 01:22:01 +0530</lastBuildDate><atom:link href="https://malviya.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>advertising</title>
-      <link>https://malviya.dev/tags/advertising/</link>
-      <pubDate>Sat, 31 Dec 2022 00:49:22 +0530</pubDate>
+      <title>decentralization</title>
+      <link>https://malviya.dev/tags/decentralization/</link>
+      <pubDate>Mon, 16 Jan 2023 01:22:01 +0530</pubDate>
       
-      <guid>https://malviya.dev/tags/advertising/</guid>
+      <guid>https://malviya.dev/tags/decentralization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fediverse</title>
+      <link>https://malviya.dev/tags/fediverse/</link>
+      <pubDate>Mon, 16 Jan 2023 01:22:01 +0530</pubDate>
+      
+      <guid>https://malviya.dev/tags/fediverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opinion</title>
+      <link>https://malviya.dev/tags/opinion/</link>
+      <pubDate>Mon, 16 Jan 2023 01:22:01 +0530</pubDate>
+      
+      <guid>https://malviya.dev/tags/opinion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
       <link>https://malviya.dev/tags/privacy/</link>
-      <pubDate>Sat, 31 Dec 2022 00:49:22 +0530</pubDate>
+      <pubDate>Mon, 16 Jan 2023 01:22:01 +0530</pubDate>
       
       <guid>https://malviya.dev/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>techspec</title>
+      <link>https://malviya.dev/tags/techspec/</link>
+      <pubDate>Mon, 16 Jan 2023 01:22:01 +0530</pubDate>
+      
+      <guid>https://malviya.dev/tags/techspec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>web3</title>
       <link>https://malviya.dev/tags/web3/</link>
-      <pubDate>Sat, 31 Dec 2022 00:49:22 +0530</pubDate>
+      <pubDate>Mon, 16 Jan 2023 01:22:01 +0530</pubDate>
       
       <guid>https://malviya.dev/tags/web3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>advertising</title>
+      <link>https://malviya.dev/tags/advertising/</link>
+      <pubDate>Sat, 31 Dec 2022 00:49:22 +0530</pubDate>
+      
+      <guid>https://malviya.dev/tags/advertising/</guid>
       <description></description>
     </item>
     
